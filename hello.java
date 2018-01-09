@@ -1,1 +1,3 @@
-你好！
+public class name(){
+	
+}
